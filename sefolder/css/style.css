@@ -1,0 +1,58 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+    border: solid;
+
+}
+h2{
+    text-decoration:underline;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+P{
+    font-size: large;
+    text-decoration: cadetblue;
+    text-align: center;
+}
+a{
+    text-decoration-color: purple;
+    font-style: italic;
+    text-align: center;
+}
+.middle {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+nav {
+    text-align: center;
+}
+table{
+    text-align: center;
+}
+ol{
+    text-align: center;
+}
+Form{
+    padding: 15px;
+    background-color: antiquewhite;
+    font-style: italic;
+    border-style: solid;
+    font-weight: 900;
+    text-align: center;
+}
+#hi{
+    font-style: italic;
+}
+</style>
